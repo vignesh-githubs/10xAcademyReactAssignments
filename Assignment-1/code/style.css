@@ -1,1 +1,62 @@
 
+    .container{
+        width:100%;
+        display: flex;
+      flex-direction: column;
+    }
+    .row{
+        display: flex;
+    }
+    .content{
+        flex:1 1 auto;
+        height:200px;
+        margin:10px;
+
+    }
+    .yell{
+        /* display: inline-block; */
+        background-color: yellow;
+       
+    }
+    .blue{
+       
+      
+        background-color: blue;
+       
+    }
+    
+    .oran{
+        background-color: orange;
+      
+     
+    
+    }
+
+
+
+
+
+
+
+
+@media screen and (min-device-width:764px) and (max-device-width:1023px){
+
+#bluy{
+    flex-direction: column;
+}}
+
+@media screen and (min-device-width:325px) and (max-device-width:763px){
+  
+    .yellow{
+         flex-direction: column;
+
+   
+    }
+    #bluy{
+        flex-direction: column;
+    }
+  
+    
+
+    
+    }
