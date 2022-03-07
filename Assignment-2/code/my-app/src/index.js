@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 
-const employee = {
+const employe = {
   name: 'Tom',
   location: 'New York',
   bloodGroup: 'B+',
@@ -15,7 +15,7 @@ const employee = {
 
 ReactDOM.render(
   <React.StrictMode>
-    <App employee={employee} />
+    <App employee={employe} />
   </React.StrictMode>,
   document.getElementById('root')
 );

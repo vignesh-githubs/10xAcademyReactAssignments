@@ -1,0 +1,27 @@
+{
+    "user":
+                [
+            {"name":"Siva",
+            "location":"Bengaluru",
+            "likes":64,
+            "description": "no words a while",
+            "PostImage": "https://images.pexels.com/photos/1767434/pexels-photo-1767434.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "date": 82789789
+            },
+            {"name":"Neeraj",
+                "location":"Pune",
+                "likes":30,
+                "description": "beloved one",
+                "PostImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-MNxTKwV0dK5HP14KV0Muh6piqPGTv8w4PQ&usqp=CAU",
+                "date": 2446249456
+            },
+            {"name":"Ramya",
+                "location":"Hyderabad",
+                "likes":30,
+                "description" : "lovely day spend with lovely friends",
+            "PostImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp4rN33PyWHKh1AnV91DHPLsB-t-FEAjS2eA&usqp=CAU",
+            "date":82787481798
+            
+            }
+            ]
+}
